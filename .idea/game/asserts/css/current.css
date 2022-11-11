@@ -3,3 +3,11 @@ Project :simple_running_2d_game
 Date :11/11/2022
 Time :9:58 PM
 */
+
+.background{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../images/background.jpg");
+    background-size: 100% 100%;
+
+}
